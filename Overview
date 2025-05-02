@@ -1,0 +1,44 @@
+🔐 Password Complexity Checker (Live GUI Tool)
+A real-time Password Strength Checker built with Python and Tkinter. This interactive desktop application evaluates the complexity of passwords as the user types, providing instant feedback on their strength (Weak, Medium, or Strong).
+
+✨ Features
+⌨️ Live feedback as you type your password
+
+✅ Checks for:
+
+Minimum length (8 characters)
+
+Uppercase letters
+
+Lowercase letters
+
+Digits
+
+Special characters
+
+🎨 Changes background and text color based on strength
+
+💻 Lightweight and responsive GUI
+
+🧪 Strength Criteria
+Requirement	Mandatory?
+At least 8 characters	✅ Yes
+At least one uppercase letter	✅ Yes
+At least one lowercase letter	✅ Yes
+At least one digit	✅ Yes
+At least one special character	✅ Yes
+
+🛠️ Technologies Used
+Python 3
+
+Tkinter for the GUI
+
+re (regex) module for pattern matching
+
+📌 Use Cases
+Ideal for beginners learning Python GUI development
+
+Helpful tool for educating users on secure password practices
+
+Can be integrated into larger password management systems
+
